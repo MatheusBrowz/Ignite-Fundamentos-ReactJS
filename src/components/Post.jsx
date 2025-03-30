@@ -11,7 +11,6 @@ export function Post() {
                         <span>Web Developer</span>                          
                     </div>
                 </div>
-
                 <time title="29 de março às 12:00h" dateTime="2025-03-29 12:00:00">Publicado há 1h</time>
             </header>
 
